@@ -1,0 +1,41 @@
+.Footer{
+    height: fit-content;
+    width: 100%;
+    display: flex;
+    
+}
+
+.containerFooter{
+    display: flex;
+
+}
+.imgizq{
+    width: 33.3%;
+    height: 100%;
+
+}
+
+.imgizq .imgMapa{
+    width: 300px;
+    height: 400px;
+
+    background-image: url(https://goo.gl/maps/JmqWj8CVPTDsVkTi8);
+
+}
+
+
+
+.tituloFooterCentrado{
+  
+    
+    background-size: contain;
+    text-align: center;
+    width: 33.3%;
+    height: 100%;
+}
+.iconosder{
+    width: 33.3%;
+    height: 100%;
+
+}
+
